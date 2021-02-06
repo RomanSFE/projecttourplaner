@@ -1,0 +1,26 @@
+.project-report-sidebar-main-seceion-box {
+    margin-top: 25px;
+}
+
+.project-report-sidebar-main-seceion-box ul {
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.project-report-sidebar-main-seceion-box ul li {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.project-report-sidebar-main-seceion-box ul li a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #c5c5c5;
+    text-decoration: none;
+}
+
+.project-report-sidebar-main-seceion-box ul li a:hover {
+    color: #fff;
+    transition: .2s;
+}
